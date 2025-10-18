@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    
+    <!-- Navigation -->
+    <string name="nav_app_bar_navigate_up_description">Navigate up</string>
+    
+    <!-- Notes List -->
+    <string name="notes_title">Notes</string>
+    <string name="search_hint">Search notes...</string>
+    <string name="add_note">Add note</string>
+    <string name="no_notes_yet">No notes yet. Tap + to add your first note!</string>
+    <string name="no_notes_found">No notes found</string>
+    
+    <!-- Add Note -->
+    <string name="add_note_title">Add Note</string>
+    <string name="note_title_hint">Note Title</string>
+    <string name="note_content_hint">Note Content</string>
+    <string name="save_note">Save Note</string>
+    <string name="title_required">Title is required</string>
+    <string name="content_required">Content is required</string>
+    <string name="note_saved">Note saved successfully</string>
+    
+    <!-- Note Detail -->
+    <string name="note_details_title">Note Details</string>
+    <string name="edit_note">Edit</string>
+    <string name="delete_note">Delete</string>
+    <string name="note_deleted">Note deleted</string>
+    
+    <!-- Edit Note -->
+    <string name="edit_note_title">Edit Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="note_updated">Note updated successfully</string>
+    
+    <!-- Common -->
+    <string name="created">Created:</string>
+    <string name="updated">Updated:</string>
+</resources>
